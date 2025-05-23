@@ -163,8 +163,6 @@ Nuestra propuesta única de valor es la integración de música y relajación en
 ## 🏗️ Estructura del Proyecto
 
 La aplicación sigue una arquitectura modular, inspirada en principios de Clean Architecture, para promover la separación de preocupaciones y la mantenibilidad.
-
-```mermaid
 graph TD
     A[danielorzt--barbermusicspaapp/] --> B(app.json);
     A --> C(App.tsx);
